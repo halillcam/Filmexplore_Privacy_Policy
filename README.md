@@ -1,78 +1,75 @@
-Filmexplore - Gizlilik Politikası
-Son Güncellenme: 23 Aralık 2025
+# <a name="top"></a> Filmexplore - Privacy Policy / Gizlilik Politikası
 
-1. Giriş
-Filmexplore olarak gizliliğinize önem veriyoruz. Bu gizlilik politikası, uygulamamızı kullanırken hangi bilgilerin toplandığını, nasıl kullanıldığını ve korunduğunu açıklamaktadır.
+Please select your language / Lütfen dilinizi seçin:
 
-2. Toplanan Bilgiler
-2.1. Kişisel Bilgiler
-Filmexplore herhangi bir kişisel bilgi toplamaz, saklamaz veya üçüncü taraflarla paylaşmaz. Uygulamamız:
+[🇹🇷 TR](#tr) | [🇺🇸 EN](#en) | [🇩🇪 DE](#de) | [🇫🇷 FR](#fr) | [🇮🇹 IT](#it) | [🇪🇸 ES](#es) | [🇷🇺 RU](#ru)
 
-Ad, soyad, e-posta adresi veya telefon numarası talep etmez
-Kullanıcı hesabı oluşturmayı gerektirmez
-Kimlik doğrulama işlemi yapmaz
+---
 
-2.2. Cihazda Saklanan Veriler
-Uygulama aşağıdaki verileri yalnızca cihazınızda yerel olarak saklar:
+<a name="tr"></a>
+## 🇹🇷 Türkçe - Gizlilik Politikası
+**Son Güncelleme:** 23 Aralık 2025
 
-Seçtiğiniz film kategorileri/türleri
-Dil tercihiniz
-Tema tercihiniz (Açık/Koyu mod)
-Bildirim tercihiniz
-Takvime eklediğiniz filmler ve hatırlatma tarihleri
-İzleme listenizdeki filmler
-Bu veriler sadece cihazınızda kalır ve hiçbir sunucuya gönderilmez.
+Filmexplore olarak gizliliğinize önem veriyoruz. Uygulamamız hiçbir kişisel bilgi toplamaz. Tüm verileriniz (izleme listesi, tercihler) cihazınızda yerel olarak saklanır. Film verileri için TMDb API kullanılır. Uygulamayı silmek tüm verilerinizi silmek için yeterlidir.
 
-3. Kullanılan Üçüncü Taraf Hizmetler
-3.1. TMDb (The Movie Database) API
-Film bilgileri, posterler, fragmanlar ve oyuncu bilgileri için TMDb API kullanılır
-TMDb'nin gizlilik politikası: https://www.themoviedb.org/privacy-policy
-Uygulamadan TMDb'ye sadece film arama ve bilgi çekme istekleri gönderilir
+[Sayfa Başına Dön](#top)
 
-3.2. JustWatch Verileri
-İzleme platformu bilgileri JustWatch tarafından sağlanır
-Bu veriler TMDb API aracılığıyla anonim olarak alınır
-Hiçbir kullanıcı verisi JustWatch ile paylaşılmaz
+---
 
-3.3. YouTube
-Fragman izleme özelliği YouTube'a yönlendirme yapar
-YouTube'un gizlilik politikası: https://policies.google.com/privacy
+<a name="en"></a>
+## 🇺🇸 English - Privacy Policy
+**Last Updated:** December 23, 2025
 
-4. İzinler
-4.1. İnternet Erişimi
-Film bilgilerini çekmek için internet bağlantısı gereklidir
-Veriler sadece TMDb API ile iletişim için kullanılır
+Filmexplore does not collect, store, or share any personal information. All data (watchlist, preferences) is stored locally on your device. We use TMDb API for movie information. Deleting the app will automatically remove all your data.
 
-4.2. Bildirimler
-Film hatırlatmaları için bildirim izni istenir
-Bu izin isteğe bağlıdır ve reddetseniz bile uygulama kullanılabilir
-Bildirimler tamamen cihazınızda oluşturulur, sunucu tabanlı değildir
-4.3. Depolama
-Tercihlerinizi ve takvim verilerinizi saklamak için kullanılır
-Veriler şifrelenmemiş olarak cihazınızda saklanır
+[Back to Top](#top)
 
-5. Veri Güvenliği
-Uygulama hiçbir veriyi harici sunuculara göndermez
-Tüm veriler cihazınızda yerel olarak saklanır
-Uygulamayı sildiğinizde tüm veriler otomatik olarak silinir
-6. Çocukların Gizliliği
-Filmexplore, 13 yaşın altındaki çocuklardan bilerek veri toplamaz. Ebeveyn veya vasiler, çocuklarının internette kişisel bilgi vermemesi konusunda onları bilgilendirmelidir.
+---
 
-7. Analitik ve Takip
-Filmexplore hiçbir analitik hizmeti kullanmaz. 
+<a name="de"></a>
+## 🇩🇪 Deutsch - Datenschutzerklärung
+**Zuletzt aktualisiert:** 23. Dezember 2025
 
-Uygulama:
-Kullanıcı davranışlarını takip etmez
-Çökme raporları toplamaz
-Kullanım istatistikleri kaydetmez
-Reklam ID'si kullanmaz
+Filmexplore sammelt, speichert oder teilt keine persönlichen Daten. Alle Daten (Merkliste, Einstellungen) werden lokal auf Ihrem Gerät gespeichert. Wir nutzen die TMDb-API für Filminformationen. Das Löschen der App entfernt automatisch alle Ihre Daten.
 
-8. Değişiklikler
-Bu gizlilik politikası güncellenebilir. Önemli değişiklikler uygulama üzerinden bildirilecektir. Son güncelleme tarihi bu sayfanın başında belirtilmiştir.
+[Nach oben](#top)
 
-10. Veri Silme
-Verilerinizi silmek için:
+---
 
-Uygulamayı cihazınızdan kaldırın
-veya
-Uygulama ayarlarından tüm verileri temizleyin
+<a name="fr"></a>
+## 🇫🇷 Français - Politique de Confidentialité
+**Dernière mise à jour :** 23 décembre 2025
+
+Filmexplore ne collecte, ne stocke ni ne partage aucune information personnelle. Toutes les données (liste de surveillance, préférences) sont stockées localement sur votre appareil. Nous utilisons l'API TMDb pour les informations sur les films. La suppression de l'application supprimera automatiquement toutes vos données.
+
+[Retour en haut](#top)
+
+---
+
+<a name="it"></a>
+## 🇮🇹 Italiano - Informativa sulla Privacy
+**Ultimo aggiornamento:** 23 dicembre 2025
+
+Filmexplore non raccoglie, memorizza o condivide alcuna informazione personale. Tutti i dati (lista dei desideri, preferenze) sono memorizzati localmente sul tuo dispositivo. Utilizziamo l'API TMDb per le informazioni sui film. L'eliminazione dell'app rimuoverà automaticamente tutti i tuoi dati.
+
+[Torna su](#top)
+
+---
+
+<a name="es"></a>
+## 🇪🇸 Español - Política de Privacidad
+**Última actualización:** 23 de diciembre de 2025
+
+Filmexplore no recopila, almacena ni comparte ninguna información personal. Todos los datos (lista de seguimiento, preferencias) se almacenan localmente en su dispositivo. Utilizamos la API de TMDb para obtener información sobre películas. Eliminar la aplicación borrará automáticamente todos sus datos.
+
+[Volver arriba](#top)
+
+---
+
+<a name="ru"></a>
+## 🇷🇺 Русский - Политика конфиденциальности
+**Последнее обновление:** 23 декабря 2025 г.
+
+Filmexplore не собирает, не хранит и не передает никакую личную информацию. Все данные (список наблюдения, настройки) хранятся локально на вашем устройстве. Мы используем TMDb API для получения информации о фильмах. Удаление приложения автоматически удалит все ваши данные.
+
+[Наверх](#top)
